@@ -1,0 +1,7 @@
+custom_module.configuration:
+  path: '/admin/config/system/configuration'
+  defaults:
+    _form: '\Drupal\custom_module\Form\ModuleConfigurationForm'
+    _title: 'Custom Configuration'
+  requirements: 
+    _permission: 'access custom module configuration'

@@ -1,0 +1,6 @@
+custom_module.configuration:
+  title: 'Custom Configuration'
+  route_name: custom_module.configuration
+  description: 'A description for the menu entry'
+  parent: system.admin_config_system
+  weight: 99

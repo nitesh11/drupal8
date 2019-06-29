@@ -1,0 +1,4 @@
+access custom module configuration:
+  title: 'Custom module permission'
+  description: 'A custom permission for your module settings page.'
+  restrict access: TRUE
